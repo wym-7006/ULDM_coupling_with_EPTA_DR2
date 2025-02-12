@@ -1,0 +1,1 @@
+This github repository contains the code needed to reproduce the main results of the paper: Constraining ultralight scalar dark matter couplings with the European Pulsar Timing Array second data release
